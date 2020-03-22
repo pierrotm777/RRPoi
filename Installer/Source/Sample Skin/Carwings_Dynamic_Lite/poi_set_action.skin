@@ -1,0 +1,32 @@
+RideRunner Skin
+RRScreen poi_set_action
+poi_set_off.png,poi_set_off.png,poi_set_on.png,poi_set_on.png
+INC,ListStyle.txt
+INC,FontBarLabel.txt
+
+/
+I,67,76,101,93,"File;$SKINPATH$MenuIcons\$cur_Action_CMD_img$:a"
+IMG,495,27,280,357,"$PLUGINSPATH$RRPoi\GPSExec\HdgIcons\round.png",all
+L,598,185,94,35,0,0,0,18,"Arial","=$cur_PoiDistId$ $l_poi_dist$","CENTER"
+B,521,160,237,87,"NUMOSKTOVAR;cur_PoiDistId||OSKTEXT;$cur_PoiDistId$",
+
+/
+L,25,335,210,58,255,255,255,16,"Arial:bi","=$l_Action_Wait$","VHCENTER"
+L,297,334,90,64,255,255,255,18,"Arial:bi","=$cur_Action_Wait$","VHCENTER"
+B,14,333,226,65,"NUMOSKTOVAR;cur_Action_Wait||OSKTEXT;$cur_Action_Wait$",
+
+/
+L,16,181,221,65,255,255,255,20,"Arial:bi","=$cur_Action_CMD_txt$","VHCENTER"
+B,13,18,228,249,"menu;poi_action_cmd.skin",
+L,248,22,225,241,255,255,255,28,"Arial:bi","=$cur_Action_txt$","VHCENTER"
+L,20,276,450,49,255,255,255,20,"Arial:bi","=$l_poi_set_soundfile$ - $cur_Action_sound$","VHCENTER"
+
+B,242,18,233,250,"SETVAR;OSK_HELP;$l_poi_set_txt$||OSKTOVAR;cur_Action_txt||OSKTEXT;$cur_Action_txt$",
+B,11,268,463,62,"menu;poi_action_sound.skin",
+
+B,632,498,159,84,"Esc",
+L,613,430,189,35,255,255,255,18,"Arial:bi","=$l_poi_set_save$","CENTER"
+L,612,524,189,35,255,255,255,18,"Arial:bi","=$l_poi_set_esc$","CENTER"
+B,632,405,157,84,"GPSSaveActionNum||Esc",
+ 
+END

@@ -1,0 +1,12 @@
+<NetworkLink>
+	<name>RR Earth - VIEWMODE</name>
+	<open>0</open>
+	<flyToView>0</flyToView>
+	<Url>
+		<href>C:\Program Files\RideRunner\Plugins\RREarth\Mode.KML</href>
+		<refreshMode>onExpire</refreshMode>
+		<viewRefreshMode>onStop</viewRefreshMode>
+		<viewRefreshTime>0</viewRefreshTime>
+	</Url>
+</NetworkLink>
+

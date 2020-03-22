@@ -1,0 +1,18 @@
+RideRunner Skin
+RRScreen poi_action_clear
+yesno_off.png,yesno_off.png,yesno_on.png,yesno_on.png
+
+/DISCARDABLE
+
+/
+L,11,12,380,28,255,255,255,18,"Arial:b","=$l_poi_action_clear$","SCROLL-CENTER"
+L,31,80,149,35,255,255,255,24,"Arial:b","=$l_poi_clear_del$","CENTER"
+L,217,80,149,35,255,255,255,24,"Arial:b","=$l_poi_clear_esc$","CENTER"
+
+/
+B06,200,41,191,114,"Exit",""
+B10,8,41,192,113,"Esc||GPSClearActionNum",
+
+/
+ 
+END

@@ -1,0 +1,20 @@
+RideRunner Skin
+RRScreen Poi_clear
+yesno_off.png,yesno_off.png,yesno_on.png,yesno_on.png
+IDL,5
+
+/
+L,11,12,380,28,255,255,255,18,"Arial:b","=$l_poi_run_q$","SCROLL-CENTER",
+L,30,51,149,35,255,255,255,24,"Arial:b","=$l_poi_run_onoff$","CENTER",
+I,74,90,62,55,"POI",,,"Indicators\RRPOI_*.png"
+L,217,51,149,35,255,255,255,24,"Arial:b","=$l_poi_run_newpoi$","CENTER",
+
+/
+B06,200,40,191,114,"esc||poi_onsetpoitimer",""
+
+/
+B10,8,40,192,115,"Esc||poi_onoff",
+
+/
+ 
+END

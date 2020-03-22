@@ -1,0 +1,7 @@
+C:\Program Files (x86)\RideRunner\Plugins\MyC#Plugin\RRPoi.dll.config
+C:\Program Files (x86)\RideRunner\Plugins\MyC#Plugin\RRPoi.dll
+C:\Program Files (x86)\RideRunner\Plugins\MyC#Plugin\RRPoi.pdb
+C:\Program Files (x86)\RideRunner\Plugins\MyC#Plugin\RRPoi.tlb
+C:\RRExtension Plugin Examples\RRPoi\MyExtension\obj\Debug\ResolveAssemblyReference.cache
+C:\RRExtension Plugin Examples\RRPoi\MyExtension\obj\Debug\RRPoi.dll
+C:\RRExtension Plugin Examples\RRPoi\MyExtension\obj\Debug\RRPoi.pdb

@@ -1,0 +1,25 @@
+C:\Program Files\RideRunner\RRExtension Plugin Examples\C#\MyExtension\bin\Release\CarApplet.dll
+C:\Program Files\RideRunner\RRExtension Plugin Examples\C#\MyExtension\bin\Release\CEAgent.dll
+C:\Program Files\RideRunner\RRExtension Plugin Examples\C#\MyExtension\bin\Release\CEAgent.xml
+C:\Program Files\RideRunner\RRExtension Plugin Examples\C#\MyExtension\bin\Release\CarApplet.xml
+C:\Program Files\RideRunner\RRExtension Plugin Examples\C#\MyExtension\obj\Release\ResolveAssemblyReference.cache
+C:\Program Files\RideRunner\RRExtension Plugin Examples\C#\MyExtension\bin\Release\MyExtension.dll
+C:\Program Files\RideRunner\RRExtension Plugin Examples\C#\MyExtension\obj\Release\MyExtension.dll
+C:\Program Files\RideRunner\RRExtension Plugin Examples\C#\MyExtension\bin\Release\MyExtension.dll.config
+C:\RRExtension Plugin Examples\C#\MyExtension\bin\Release\CarApplet.dll
+C:\RRExtension Plugin Examples\C#\MyExtension\bin\Release\CEAgent.dll
+C:\RRExtension Plugin Examples\C#\MyExtension\bin\Release\CEAgent.xml
+C:\RRExtension Plugin Examples\C#\MyExtension\bin\Release\CarApplet.xml
+C:\RRExtension Plugin Examples\C#\MyExtension\obj\Release\ResolveAssemblyReference.cache
+C:\RRExtension Plugin Examples\C#\MyExtension\bin\Release\RRCheckEngine.dll.config
+C:\RRExtension Plugin Examples\C#\MyExtension\bin\Release\RRCheckEngine.dll
+C:\RRExtension Plugin Examples\C#\MyExtension\obj\Release\RRCheckEngine.dll
+C:\RRExtension Plugin Examples\RRPoi\MyExtension\bin\Release\RRPoi.dll.config
+C:\RRExtension Plugin Examples\RRPoi\MyExtension\bin\Release\RRPoi.dll
+C:\RRExtension Plugin Examples\RRPoi\MyExtension\obj\Release\ResolveAssemblyReference.cache
+C:\RRExtension Plugin Examples\RRPoi\MyExtension\obj\Release\RRPoi.dll
+C:\tmp\C#\C# RRPoi 17-1-2013\MyExtension\bin\Release\RRPoi.dll.config
+C:\tmp\C#\C# RRPoi 17-1-2013\MyExtension\bin\Release\RRPoi.dll
+C:\tmp\C#\C# RRPoi 17-1-2013\MyExtension\obj\Release\ResolveAssemblyReference.cache
+C:\tmp\C#\C# RRPoi 17-1-2013\MyExtension\obj\Release\RRPoi.dll
+C:\tmp\C#\C# RRPoi 17-1-2013\MyExtension\bin\Release\RRPoi.tlb

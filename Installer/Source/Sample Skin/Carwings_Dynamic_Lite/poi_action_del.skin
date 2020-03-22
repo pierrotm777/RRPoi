@@ -1,0 +1,17 @@
+RoadRunner Skin
+RRScreen poi_action_del
+yesno_OFF.png,yesno_OFF.png,yesno_ON.png,yesno_ON.png
+
+IDL,10
+
+/
+S,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,,10,0
+ 
+/
+L,13,10,375,29,255,255,255,16,"Arial:b","=$l_poi_action_del$","SCROLL-CENTER"
+L,32,80,149,35,255,255,255,24,"Arial:b","=$l_yes$","CENTER"
+L,213,80,163,35,255,255,255,24,"Arial:b","=$l_no$","CENTER"
+B,11,42,189,106,"poi_delete||Esc",
+B,201,41,188,108,"ESC",
+ 
+END

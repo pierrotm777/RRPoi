@@ -1,0 +1,29 @@
+C:\tmp\VB.NET-2010\VB.Net RRPoi\RRPoi\obj\Release\ResolveAssemblyReference.cache
+C:\tmp\VB.NET-2010\VB.Net RRPoi\RRPoi\obj\Release\RRPoi.Resources.resources
+C:\tmp\VB.NET-2010\VB.Net RRPoi\RRPoi\obj\Release\RRPoi.StringFile.resources
+C:\tmp\VB.NET-2010\VB.Net RRPoi\RRPoi\obj\Release\RRPoi.StringFile.fr-FR.resources
+C:\tmp\VB.NET-2010\VB.Net RRPoi\RRPoi\obj\Release\GenerateResource-ResGen.read.1.tlog
+C:\tmp\VB.NET-2010\VB.Net RRPoi\RRPoi\obj\Release\GenerateResource.read.1.tlog
+C:\tmp\VB.NET-2010\VB.Net RRPoi\RRPoi\obj\Release\GenerateResource-ResGen.write.1.tlog
+C:\tmp\VB.NET-2010\VB.Net RRPoi\RRPoi\obj\Release\GenerateResource.write.1.tlog
+C:\tmp\VB.NET-2010\VB.Net RRPoi\RRPoi\bin\RRPoi.dll
+C:\tmp\VB.NET-2010\VB.Net RRPoi\RRPoi\bin\RRPoi.pdb
+C:\tmp\VB.NET-2010\VB.Net RRPoi\RRPoi\bin\fr-FR\RRPoi.resources.dll
+C:\tmp\VB.NET-2010\VB.Net RRPoi\RRPoi\bin\RRPoi.tlb
+C:\tmp\VB.NET-2010\VB.Net RRPoi\RRPoi\obj\Release\fr-FR\RRPoi.resources.dll
+C:\tmp\VB.NET-2010\VB.Net RRPoi\RRPoi\obj\Release\RRPoi.dll
+C:\tmp\VB.NET-2010\VB.Net RRPoi\RRPoi\obj\Release\RRPoi.pdb
+C:\tmp\VB.NET-2010\VB.NET Plugin RRPoi\RRPoi\bin\RRPoi.dll
+C:\tmp\VB.NET-2010\VB.NET Plugin RRPoi\RRPoi\bin\RRPoi.pdb
+C:\tmp\VB.NET-2010\VB.NET Plugin RRPoi\RRPoi\bin\RRPoi.tlb
+C:\tmp\VB.NET-2010\VB.NET Plugin RRPoi\RRPoi\obj\Release\RRPoi.Resources.resources
+C:\tmp\VB.NET-2010\VB.NET Plugin RRPoi\RRPoi\obj\Release\RRPoi.vbproj.GenerateResource.Cache
+C:\tmp\VB.NET-2010\VB.NET Plugin RRPoi\RRPoi\obj\Release\RRPoi.dll
+C:\tmp\VB.NET-2010\VB.NET Plugin RRPoi\RRPoi\obj\Release\RRPoi.pdb
+C:\tmp\VB.NET-2010\VB.NET Plugin RRPoi\Source\RRPoi\bin\RRPoi.dll
+C:\tmp\VB.NET-2010\VB.NET Plugin RRPoi\Source\RRPoi\bin\RRPoi.pdb
+C:\tmp\VB.NET-2010\VB.NET Plugin RRPoi\Source\RRPoi\bin\RRPoi.tlb
+C:\tmp\VB.NET-2010\VB.NET Plugin RRPoi\Source\RRPoi\obj\Release\RRPoi.Resources.resources
+C:\tmp\VB.NET-2010\VB.NET Plugin RRPoi\Source\RRPoi\obj\Release\RRPoi.vbproj.GenerateResource.Cache
+C:\tmp\VB.NET-2010\VB.NET Plugin RRPoi\Source\RRPoi\obj\Release\RRPoi.dll
+C:\tmp\VB.NET-2010\VB.NET Plugin RRPoi\Source\RRPoi\obj\Release\RRPoi.pdb

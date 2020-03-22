@@ -1,0 +1,32 @@
+RoadRunner Skin
+RRScreen poi_action_sound
+select_bg_off.png,select_bg_off.png,select_bg_on.png,select_bg_on.png
+ 
+/
+L,366,399,197,35,255,255,255,24,"Arial:bi","=$l_w_enter$","CENTER"
+L,577,399,194,35,255,255,255,24,"Arial:bi","=$l_exit_esc$","CENTER"
+ 
+/
+IMG,37,80,45,45,"$skinpath$MenuIcons\pg_up.png",all
+IMG,37,173,45,45,"$skinpath$MenuIcons\up.png",all
+IMG,37,272,45,45,"$skinpath$MenuIcons\down.png",all
+IMG,37,365,45,45,"$skinpath$MenuIcons\pg_down.png",all
+ 
+/
+B02,13,150,100,95,"UP||UPDATE_sound",""
+B04,13,245,99,96,"DOWN||UPDATE_sound",""
+B06,357,371,210,89,"SETVAR;cur_Action_sound;$soundfilename$||Esc",""
+B06,569,371,212,89,"EXIT",""
+B10,13,51,101,98,"PGUP||UPDATE_sound",""
+B12,12,341,101,98,"PGDOWN||UPDATE_sound",""
+ 
+/
+I,525,149,100,100,"FILE;$skinpath$MenuIcons\play.png:a"
+B,367,58,401,291,"PLAYSOUND;$pluginspath$RRPOI\GPSExec\PoiSound\$language$\$soundfilename$",
+
+/
+SD,00,00,30,30,"$pluginspath$RRPOI\GPSExec\PoiSound\$language$\","*.wav",1
+
+IL,DL,TRANSPARENT.BMP,SEL.BMP,END.BMP,0,50,60
+S01,133,61,194,388,230,230,230,0,255,0,255,255,255,230,230,230,0,0,0,0,0,0,true,18,"Arial:b" 
+END

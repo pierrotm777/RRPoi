@@ -1,0 +1,7 @@
+C:\tmp\VB.NET-2010\VB.NET Plugin RRPoi\Source\RRPoi\bin\RRPoi.dll
+C:\tmp\VB.NET-2010\VB.NET Plugin RRPoi\Source\RRPoi\bin\RRPoi.pdb
+C:\tmp\VB.NET-2010\VB.NET Plugin RRPoi\Source\RRPoi\bin\RRPoi.tlb
+C:\tmp\VB.NET-2010\VB.NET Plugin RRPoi\Source\RRPoi\obj\Debug\RRPoi.Resources.resources
+C:\tmp\VB.NET-2010\VB.NET Plugin RRPoi\Source\RRPoi\obj\Debug\RRPoi.vbproj.GenerateResource.Cache
+C:\tmp\VB.NET-2010\VB.NET Plugin RRPoi\Source\RRPoi\obj\Debug\RRPoi.dll
+C:\tmp\VB.NET-2010\VB.NET Plugin RRPoi\Source\RRPoi\obj\Debug\RRPoi.pdb

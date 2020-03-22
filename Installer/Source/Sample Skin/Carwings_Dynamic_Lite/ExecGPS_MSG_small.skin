@@ -1,0 +1,41 @@
+RoadRunner Skin
+RRScreen ExecGPS_MSG_small
+top_poi.png,top_poi.png,top_poi_on.png,top_poi_on.png
+
+IDL,30
+
+/SHOWEFFECT6
+/HIDEEFFECT5
+
+/POSX=100
+/POSY=1
+
+ 
+/
+I,11,4,100,73,"File;$pluginspath$RRPoi\GPSExec\PoiIcons\$EGPS_IMG1$:a"
+I,131,4,100,73,"File;$pluginspath$RRPoi\GPSExec\PoiIcons\$EGPS_IMG2$:a"
+I,250,4,100,73,"File;$pluginspath$RRPoi\GPSExec\PoiIcons\$EGPS_IMG3$:a"
+I,370,4,100,73,"File;$pluginspath$RRPoi\GPSExec\PoiIcons\$EGPS_IMG4$:a"
+I,489,4,100,73,"File;$pluginspath$RRPoi\GPSExec\PoiIcons\$EGPS_IMG5$:a"
+ 
+/L,109,1,194,54,255,255,255,16,"Arial:b","=$EGPS_txt1$","VHCENTER"
+/L,407,1,187,54,255,255,255,16,"Arial:b","=$EGPS_txt2$","VHCENTER"
+/L,321,327,231,130,255,255,255,24,"Arial:b","=$l_poi_edit$","VHCENTER"
+/L,642,19,105,59,255,255,255,24,"Arial:b","=$l_poi_delete$","VHCENTER"
+
+L,10,80,100,18,0,0,0,14,"Arial:b","=$Poi_real_dist1$ $l_poi_dist$","VHCENTER"
+L,131,80,100,18,0,0,0,14,"Arial:b","=$Poi_real_dist2$ $l_poi_dist$","VHCENTER"
+L,250,80,100,18,0,0,0,14,"Arial:b","=$Poi_real_dist3$ $l_poi_dist$","VHCENTER"
+L,370,80,100,18,0,0,0,14,"Arial:b","=$Poi_real_dist4$ $l_poi_dist$","VHCENTER"
+L,489,80,100,18,0,0,0,14,"Arial:b","=$Poi_real_dist5$ $l_poi_dist$","VHCENTER"
+ 
+/B,320,325,232,134,"poi_edit",
+B,0,0,120,108,"ESC||BigWindowPoiMSG1",
+B,120,0,120,108,"ESC||BigWindowPoiMSG2",
+B,240,0,120,108,"ESC||BigWindowPoiMSG3",
+B,360,0,120,108,"ESC||BigWindowPoiMSG4",
+B,480,0,120,108,"ESC||BigWindowPoiMSG5",
+ 
+/B,158,13,164,91,"poi_delete",
+ 
+END

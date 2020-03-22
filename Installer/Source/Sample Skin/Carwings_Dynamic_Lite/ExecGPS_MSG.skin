@@ -1,0 +1,23 @@
+RoadRunner Skin
+RRScreen ExecGPS_MSG
+Poi_msg_off.png,Poi_msg_off.png,Poi_msg_down.png,Poi_msg_down.png
+
+IDL,20
+
+/SHOWEFFECT5
+/HIDEEFFECT6
+ 
+
+I,14,20,300,300,"File;$pluginspath$RRPoi\GPSExec\PoiIcons\$EGPS_IMG$:a"
+L,321,20,453,299,255,255,255,40,"Arial:b","=$EGPS_txt$","VHCENTER"
+L,321,327,231,130,255,255,255,24,"Arial:b","=$l_poi_edit$","VHCENTER"
+L,553,325,226,132,255,255,255,24,"Arial:b","=$l_poi_delete$","VHCENTER"
+L,50,331,227,60,0,0,0,40,"Arial:b","=$Poi_real_dist$ $l_poi_dist$","VHCENTER"
+
+L,23,432,279,19,0,0,0,12,"Arial:b","=$POI_lattitude$ - $POI_longitude$","CENTER"
+L,23,409,279,19,0,0,0,12,"Arial:b","=$l_POI_lattitude$ - $l_POI_longitude$","CENTER"
+
+B,320,325,232,134,"poi_edit",
+B,552,325,227,134,"poi_delete||Esc",
+ 
+END

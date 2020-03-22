@@ -1,0 +1,15 @@
+**********************************************************************************************
+I-Create a button:
+  1)Carwings_Dynamic_Lite
+    "MyApp13","RRPOI"
+    "MyApp02","ONSetPoiTIMER"
+    "MyApp03","menu;RRPoi_setting_choose.skin"
+  2)Carwings_Dynamic_Lite with RideRunner Dynamic Menus
+    Just select PI-RRPoi into your list
+    RRPoi New	= "ONSetPoiTIMER",RRpoi New,Icons\RRPoi.png
+II-Copy the Carwings_Dynamic_Lite screens files into your skin folder
+
+RRRecipe RR Plugin Skin Commands
+----------------------------------------------------------------------------------------------
+
+RECIPE				load the main screen

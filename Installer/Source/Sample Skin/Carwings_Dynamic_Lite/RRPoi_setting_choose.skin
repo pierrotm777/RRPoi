@@ -1,0 +1,16 @@
+RoadRunner Skin
+RRScreen RRPoi_setting_choose
+cf_popup_menu_2_off.png,cf_popup_menu_2_off.png,cf_popup_menu_2_on.png,cf_popup_menu_2_on.png
+IDL,5
+
+L,11,13,574,28,255,255,255,18,"Arial:bi","=$l_rrpoi_setting_choose$","SCROLL-CENTER"
+L,23,59,556,139,255,255,255,20,"Arial:bi","=$l_rrpoi_warning$","VHCENTER"
+L,24,218,556,138,255,255,255,20,"Arial:bi","=$l_rrpoi_action$","VHCENTER"
+ 
+/, B, x, y, w, h, Command;COMMANDCODES, Tooltip
+B06,15,209,569,162,"LOAD;PoiAction.skin",""
+B10,14,48,571,160,"LOAD;PoiReminder.skin",
+B,70,546,66,54,"EXIT",
+ 
+ 
+END

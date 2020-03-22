@@ -1,0 +1,14 @@
+RoadRunner Skin
+RRScreen wait_poi
+wait.png,wait.png,wait.png,wait.png
+ 
+/SHOWEFFECT5
+/HIDEEFFECT6
+
+ 
+/
+ 
+/IMG1,20,31,#w_icon#,#h_icon#,"$SKINPATH$Theme\$ThemeName$\MenuIcons\phone_home.png",all
+L02,59,78,284,31,255,255,255,28,"Arial:b","=$l_wait_loading$","SCROLL-LEFT"
+ 
+END

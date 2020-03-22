@@ -1,0 +1,28 @@
+RideRunner Skin
+RRScreen Poi_InCity
+Poi_InCity_off.png,Poi_InCity_off.png,Poi_InCity_off.png,Poi_InCity_off.png
+
+IDL,10
+
+/SHOWEFFECT6
+/HIDEEFFECT5
+
+/POSX=100
+/POSY=1
+
+
+I,36,28,50,50,"File;$SKINPATH$MenuIcons\RADIO.png:a"
+L,3,82,113,23,255,255,255,12,"Arial","=$l_screen_radio$","SCROLL-CENTER"
+B,0,0,120,108,"LoadRadioPlaylistForThisCity||ESC",
+
+/
+L,135,10,331,41,255,255,255,18,"Arial","=$l_rrpoi_InCity$","CENTER",
+L,135,61,331,41,255,255,255,18,"Arial","=$InCityName$","CENTER",
+B,120,0,360,108,"",
+
+/
+I,512,27,50,50,"File;$SKINPATH$Theme\$ThemeIcons$\MenuIcons\close.png:a"
+L,483,84,113,23,255,255,255,12,"Arial","=$l_exit_esc$","CENTER"
+B,480,0,120,108,"Esc",
+ 
+END

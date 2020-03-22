@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<kml xmlns="http://earth.google.com/kml/2.0">
+  <Point id="5" name="Speed Breaker" lattitude="48.862949" longitude="2.306572" hdg="360" hdg_back="360" deltahdg="360" dist="200" skincommand="test1" xmlns="" />
+  <Point id="5" name="Speed Breaker" lattitude="48.858589" longitude="2.292409" hdg="360" hdg_back="360" deltahdg="360" dist="200" skincommand="test2" xmlns="" />
+  <Point id="5" name="Speed Breaker" lattitude="48.853039" longitude="2.286787" hdg="360" hdg_back="360" deltahdg="360" dist="200" skincommand="test3" xmlns="" />
+  <Point id="5" name="Speed Breaker" lattitude="48.853321" longitude="2.282517" hdg="360" hdg_back="360" deltahdg="360" dist="200" skincommand="test4" xmlns="" />
+  </kml>

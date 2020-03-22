@@ -1,0 +1,53 @@
+RideRunner Skin
+RRScreen poi_set
+poi_set_off.png,poi_set_off.png,poi_set_on.png,poi_set_on.png
+
+/
+I,25,27,203,229,"File;$PLUGINSPATH$RRPOI\GPSExec\PoiIcons\$cur_poi_img$:a"
+I,495,27,70,70,"File;$PLUGINSPATH$RRPOI\GPSExec\PoiIcons\$cur_poi_img$:a"
+I,707,27,70,70,"File;$PLUGINSPATH$RRPOI\GPSExec\PoiIcons\$cur_poi_img$:a"
+
+/
+IMG,494,24,282,357,"$PLUGINSPATH$RRPOI\GPSExec\HdgIcons\road.png",all
+/
+L,593,218,94,35,0,0,0,18,"Arial","=$cur_PoiDistId$ $l_poi_dist$","CENTER"
+L,664,342,94,35,0,0,0,18,"Arial","=$cur_PoiMinSpeedId$ $l_poi_Speed$","CENTER",
+L,630,292,150,49,0,0,0,10,"Arial","=$l_poi_minspeed$","VHCENTER",
+L,555,97,87,35,0,0,0,18,"Arial","=$cur_PoiWidthId$ $l_poi_dist$","CENTER"
+L,635,96,87,35,0,0,0,18,"Arial","=$cur_PoiWidthId$ $l_poi_dist$","CENTER"
+
+/
+B,526,69,237,87,"NUMOSKTOVAR;cur_PoiWidthId||OSKTEXT;$cur_PoiWidthId$",
+B,526,190,237,87,"NUMOSKTOVAR;cur_PoiDistId||OSKTEXT;$cur_PoiDistId$",
+B,628,291,150,87,"NUMOSKTOVAR;cur_PoiMinSpeedId||OSKTEXT;$cur_PoiMinSpeedId$",
+
+/
+L,25,416,269,35,255,255,255,18,"Arial:bi","=$l_poi_set_approach$","CENTER"
+L,24,451,269,35,255,255,255,18,"Arial:bi","BYVAR;cur_poi_set_approach;=$l_poi_set_approach_off$<<=$l_poi_set_approach_on$","CENTER"
+B,14,406,295,84,"BYVAR;cur_poi_set_approach;SETVAR;cur_poi_set_approach;1<<SETVAR;cur_poi_set_approach;0",
+L,329,419,272,35,255,255,255,18,"Arial:bi","=$l_poi_set_big_popup$","CENTER"
+L,328,452,274,35,255,255,255,18,"Arial:bi","BYVAR;cur_poi_set_big_popup;=$l_poi_set_big_popup_off$<<=$l_poi_set_big_popup_on$","CENTER"
+B,316,405,305,84,"BYVAR;cur_poi_set_big_popup;SETVAR;cur_poi_set_big_popup;1<<SETVAR;cur_poi_set_big_popup;0",
+L,15,508,278,35,255,255,255,18,"Arial:bi","=$l_poi_set_sound_signal$","CENTER"
+L,15,543,277,35,255,255,255,18,"Arial:bi","BYVAR;cur_poi_set_sound_signal;=$l_poi_set_sound_signal_off$<<=$l_poi_set_sound_signal_on$","CENTER"
+B,12,497,297,84,"BYVAR;cur_poi_set_sound_signal;SETVAR;cur_poi_set_sound_signal;1<<SETVAR;cur_poi_set_sound_signal;0",
+L,328,508,270,35,255,255,255,18,"Arial:bi","=$l_poi_set_small_popup$","CENTER"
+L,328,542,269,35,255,255,255,18,"Arial:bi","BYVAR;cur_poi_set_small_popup;=$l_poi_set_small_popup_off$<<=$l_poi_set_small_popup_on$","CENTER"
+B,316,498,306,84,"BYVAR;cur_poi_set_small_popup;SETVAR;cur_poi_set_small_popup;1<<SETVAR;cur_poi_set_small_popup;0",
+
+/
+B,13,18,228,249,"menu;poi_set_img.skin",
+L,253,24,215,241,255,255,255,28,"Arial:bi","=$cur_GPSExec_txt$","VHCENTER"
+L,20,276,456,49,255,255,255,20,"Arial:bi","=$l_poi_set_soundfile$ - $cur_GPSExec_snd$","VHCENTER"
+L,20,337,213,49,255,255,255,20,"Arial:bi","=$l_poi_set_load_kml$","VHCENTER"
+L,250,337,220,49,255,255,255,20,"Arial:bi","=$l_poi_set_save_kml$","VHCENTER"
+B,244,18,240,250,"SETVAR;OSK_HELP;$l_poi_set_txt$||OSKTOVAR;cur_GPSExec_txt||OSKTEXT;$cur_GPSExec_txt$",
+B,11,268,475,62,"menu;poi_set_sound.skin",
+B,12,330,231,62,"menu;poi_set_load_kml.skin",
+B,243,330,241,62,"Setvar;kml_id;$cur_poi_num$||setvar;kml_name;$PLUGINSPATH$RRPOI\GPSExec\KML\$cur_GPSExec_txt$.kml||MENU;poi_set_save_kml.skin",
+B,629,498,163,84,"Esc",
+L,643,430,135,35,255,255,255,18,"Arial:bi","=$l_poi_set_save$","CENTER"
+L,643,524,139,35,255,255,255,18,"Arial:bi","=$l_poi_set_esc$","CENTER"
+B,629,405,162,84,"GPSSetSaveNum||GPSSetSaveToSkinNum||Esc",
+ 
+END

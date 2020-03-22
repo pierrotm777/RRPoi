@@ -1,0 +1,180 @@
+[RRPOI]
+l_set_ActualRRPoiLanguage=Le language actuel est
+l_set_NewRRPoiLanguage=Le language est maintenant
+
+l_rrpoi_InCity=You arrive in the town
+l_rrpoi_OutCity=You quit the town
+
+l_wait_loading=Chargement....
+l_poi_action_del=Voulez-vous effacer
+l_yes=Oui
+l_no=Non
+
+l_set_sound_start=Son debut
+l_set_sound_hold=Son maintien bouton
+l_set_sound=Son
+l_set_sound_file=Fichier Son
+
+l_set_RRPoiSet=RRPoi Configuration
+
+l_set_ratingpopup=Auto rating popup
+l_set_ratingpopup_on=Oui
+l_set_ratingpopup_off=Non
+
+l_poi_set_approach=About approach
+l_poi_set_approach_on=message
+l_poi_set_approach_off=pas de message
+
+l_poi_set_big_popup=Grand popup
+l_poi_set_big_popup_on=Oui
+l_poi_set_big_popup_off=Non
+
+l_poi_set_sound_signal=Son signal
+l_poi_set_sound_signal_on=Oui
+l_poi_set_sound_signal_off=Non
+
+l_poi_set_small_popup=Petit popup
+l_poi_set_small_popup_on=Oui
+l_poi_set_small_popup_off=Non
+
+l_poi_set_save=Sauver
+l_poi_set_esc=Annuler
+l_poi_set_txt=Point description
+l_poi_set_soundfile=Fichier son
+l_poi_set_load_kml=Charger un kml
+l_poi_set_save_kml=Sauver un kml
+
+l_poi_clear_q=Effacer ce type de point?
+l_poi_clear_del=Effacer
+l_poi_clear_esc=Annuler
+
+l_set_vol_buttons_top=Boutons volume en haut
+
+l_set_vol_buttons=Boutons volume en bas
+l_set_vol_buttons_easy=facile
+l_set_vol_buttons_dinamic=dynamique
+
+l_set_RRSkinTool=plugin SkinTool
+l_set_RRPoi=plugin RRPoi
+l_set_RRCheckEngine=plugin RRCheckEngine
+l_set_plugin_load_yes=Lancer
+l_set_plugin_load_no=Ne pas lancer
+
+
+l_poi_edit=Editer ce POI
+l_poi_delete=Effacer ce POI
+l_POI_lattitude=latitude
+l_POI_longitude=longitude
+l_poi_dist=m
+
+l_rrpoi_setting_choose=Adjustment of types POI
+l_rrpoi_warning=Adjustment of warnings on a location
+l_rrpoi_action=Adjustment of actions on a location
+l_rrpoi_Exit_RR=The program will be closed through
+l_rrpoi_sec=sec.
+
+poi_action_button_1_img=exit.png
+poi_action_button_2_img=restart.png
+poi_action_button_3_img=standby.png
+poi_action_button_4_img=hibernate.png
+poi_action_button_5_img=close.png
+poi_action_button_6_img=BlackScreen.png
+poi_action_button_7_img=
+poi_action_button_8_img=
+poi_action_button_9_img=
+poi_action_button_10_img=
+poi_action_button_11_img=
+poi_action_button_12_img=
+poi_action_button_13_img=
+poi_action_button_14_img=
+poi_action_button_15_img=
+poi_action_button_16_img=
+poi_action_button_17_img=
+poi_action_button_18_img=
+poi_action_button_19_img=
+poi_action_button_20_img=
+poi_action_button_21_img=
+poi_action_button_22_img=
+poi_action_button_23_img=
+poi_action_button_24_img=
+poi_action_button_25_img=
+poi_action_button_26_img=
+poi_action_button_27_img=
+poi_action_button_28_img=
+poi_action_button_29_img=
+poi_action_button_30_img=
+poi_action_button_31_img=
+poi_action_button_32_img=
+poi_action_button_33_img=
+poi_action_button_34_img=
+
+poi_action_button_1_command=CF_POWEROFF
+poi_action_button_2_command=CF_REBOOT
+poi_action_button_3_command=CF_STANDBY
+poi_action_button_4_command=CF_HIBERNATE
+poi_action_button_5_command=CF_Exit_RR
+poi_action_button_6_command=BlackScreen_on
+poi_action_button_7_command=
+poi_action_button_8_command=
+poi_action_button_9_command=
+poi_action_button_10_command=
+poi_action_button_11_command=
+poi_action_button_12_command=
+poi_action_button_13_command=
+poi_action_button_14_command=
+poi_action_button_15_command=
+poi_action_button_16_command=
+poi_action_button_17_command=
+poi_action_button_18_command=
+poi_action_button_19_command=
+poi_action_button_20_command=
+poi_action_button_21_command=
+poi_action_button_22_command=
+poi_action_button_23_command=
+poi_action_button_24_command=
+poi_action_button_25_command=
+poi_action_button_26_command=
+poi_action_button_27_command=
+poi_action_button_28_command=
+poi_action_button_29_command=
+poi_action_button_30_command=
+poi_action_button_31_command=
+poi_action_button_32_command=
+poi_action_button_33_command=
+poi_action_button_34_command=
+
+l_poi_action_button_1=Eteindre
+l_poi_action_button_2=Recharger
+l_poi_action_button_3=Sleep
+l_poi_action_button_4=Hiberner
+l_poi_action_button_5=Sortir d'iCar
+l_poi_action_button_6=Ecran noir
+l_poi_action_button_7=
+l_poi_action_button_8=
+l_poi_action_button_9=
+l_poi_action_button_10=
+l_poi_action_button_11=
+l_poi_action_button_12=
+l_poi_action_button_13=
+l_poi_action_button_14=
+l_poi_action_button_15=
+l_poi_action_button_16=
+l_poi_action_button_17=
+l_poi_action_button_18=
+l_poi_action_button_19=
+l_poi_action_button_20=
+l_poi_action_button_21=
+l_poi_action_button_22=
+l_poi_action_button_23=
+l_poi_action_button_24=
+l_poi_action_button_25=
+l_poi_action_button_26=
+l_poi_action_button_27=
+l_poi_action_button_28=
+l_poi_action_button_29=
+l_poi_action_button_30=
+l_poi_action_button_31=
+l_poi_action_button_32=
+l_poi_action_button_33=
+l_poi_action_button_34=
+
